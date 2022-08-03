@@ -1,3 +1,3 @@
-NN for recognizing numbers written by hand. Computer Vision, PyTorch, Python, MNIST dataset
+NN for recognizing digits written by hand. Computer Vision, PyTorch, Python, MNIST dataset
 
-Нейронка по распознаванию чисел, написанных от руки. Computer Vision, PyTorch, Python, MNIST dataset
+Нейронка по распознаванию цифр, написанных от руки. Computer Vision, PyTorch, Python, MNIST dataset
